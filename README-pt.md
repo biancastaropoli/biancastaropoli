@@ -3,7 +3,10 @@
 ## Hey hey! Welcome 🎧
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3545F6&width=435&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Coding+like+a+girl!++%E2%B8%9D%E2%B8%9D.%E1%90%9F%E2%8B%86;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Programando+como+uma+garota!++%E2%B8%9D%E2%B8%9D.%E1%90%9F%E2%8B%86" alt="Typing SVG" /></a>
 ##
-- Portuguese <img height="15cm" src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/500px-Brazilian_flag_icon_round.svg.png>
+- Portuguese <img height="15cm" src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/500px-Brazilian_flag_icon_round.svg.png> Version.
+
+- [English](README.md)
+
 ##
 <div>
 <img height="15cm" src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brazilian_flag_icon_round.svg/500px-Brazilian_flag_icon_round.svg.png> : Portuguese Version.
