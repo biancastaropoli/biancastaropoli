@@ -5,9 +5,9 @@
 ##
 - English <img height="15cm" src=https://png.pngtree.com/png-clipart/20240302/original/pngtree-usa-round-flag-glossy-glass-effect-vector-transparent-background-png-image_14464417.png>
 ##
-<br></br>
 <div>
 <img height="15cm" src=https://png.pngtree.com/png-clipart/20240302/original/pngtree-usa-round-flag-glossy-glass-effect-vector-transparent-background-png-image_14464417.png> : English Version.
+- [Português](README.pt.md)
 <br>| Currently in the 3rd year of High School.</br>
 <br>| Focus: Front-end, UX & UI and Marketing.</br>
 <br>| Eventually wanting to study Computer Science.</br>
