@@ -4,10 +4,10 @@
 <br clear="both">
 <li>
   <img id="en" src="https://cdn-icons-png.flaticon.com/512/9906/9906532.png" height="20" alt="en logo"> &nbsp;&nbsp;
-  <a href="biancastaropoli/README.md"><strong>English Version</strong></a>
+  <a href="README.md"><strong>English Version</strong></a>
   <br>
   <img id="br" src="https://cdn-icons-png.flaticon.com/512/197/197386.png" height="20" alt="pt-br logo"> &nbsp;&nbsp;
-  <a href="biancastaropoli/README.pt.md"><strong>Portuguese Version</strong></a>
+  <a href="./README.pt.md"><strong>Portuguese Version</strong></a>
   
 </li>
 
